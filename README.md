@@ -1,6 +1,6 @@
 # ThisNutrition API #
 
-[ThisNutrition](https://thisnutrition.com/) is leading website providing [nutrition tips](https://thisnutrition.com/quizzes) and healthy quizzes. 
+[ThisNutrition](https://thisnutrition.com/) is leading website providing [nutrition tips](https://thisnutrition.com/) and  [healthy quizzes](https://thisnutrition.com/quizzes)
 
 This API is a wrapper for the [ThisNutrition API](https://github.com/popnable/thisnutrition/wiki) and allows you to fetch data for nutrition.
 
